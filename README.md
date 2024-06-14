@@ -7,4 +7,3 @@ através da plataforma Alura##
 Este espaço é destinado exemplificar aos alunos como guardar seus projetos com programação
 
 ![](https://media1.tenor.com/m/K418QxdHH1EAAAAC/sakura-shannaro.gif)
-![}(https://media1.tenor.com/m/PRd2U1dLAAUAAAAC/winnie-the-pooh-hungry.gif)
